@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anyelle.queiroz@ee.ufcg.edu.br
+	name = anyelle queiroz
